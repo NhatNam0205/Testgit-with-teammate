@@ -38,5 +38,5 @@ void insertbefore(node *&head, int x){
             break;
         }
     } 
-    cout << "Done" << endl;
+    cout << "Done. No conflict" << endl;
 }
